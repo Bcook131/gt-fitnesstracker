@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Bcook131/gt-fitnesstracker/issues"
   },
-  "homepage": "https://github.com/Bcook131/gt-fitnesstracker#readme"
+  "homepage": "https://github.com/Bcook131/gt-fitnesstracker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.26"
+  }
 }
